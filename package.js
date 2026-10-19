@@ -1,0 +1,13 @@
+
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "private": true,
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "grammy": "^1.38.3"
+  }
+}
