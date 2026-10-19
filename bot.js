@@ -4,7 +4,7 @@ const { Bot } = require("grammy");
 const token = process.env.BOT_TOKEN;
 
 if (!token) {
-  throw new Error("Не задан BOT_TOKEN");
+  throw new Error("8950689146:AAFB91-Zxmtp8Oc-3zsFHNGfkCVNQojGEKI");
 }
 
 const bot = new Bot(token);
